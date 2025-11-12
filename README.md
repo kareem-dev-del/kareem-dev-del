@@ -1,15 +1,12 @@
-<!-- README: Dark Motion Profile for Karim Hisham -->
+<!-- README: Ultra Animated Profile for Karim Hisham -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="90" alt="hi gif" />
+<!-- 🌌 Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python+Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
 
-# 👋 Hey, I'm <span style="color:#00e6b8">Karim Hisham</span>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="programmer gif" style="border-radius:15px;margin-top:15px"/>
 
-### Full-Stack Developer · Backend (Django) · Odoo Developer
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="programmer gif" style="border-radius:12px; margin-top:12px;"/>
-
-<p style="margin-top:8px">📍 Alexandria, Egypt</p>
+<p>📍 Alexandria, Egypt 🇪🇬</p>
 
 </div>
 
@@ -18,94 +15,87 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineering Student (2nd Year)  
-- 💻 Backend & Full-Stack Developer — Django, Odoo & relational DBs  
-- ⚙ Comfortable with *Python, C/C++, Java, SQL, HTML/CSS*  
-- 🎯 Building production-ready projects, clean code, and clear docs  
-- 🚀 Goal: become a top developer with widely-used OSS projects and strong portfolio  
+- 💻 Full-Stack Developer focused on *Backend (Django)* and *Odoo ERP*  
+- ⚙ Skilled in *Python, Java, C/C++, SQL, HTML, CSS*  
+- 🧩 Passionate about building strong backend systems and clean UI integration  
+- 🚀 Aim: Become one of the top open-source contributors in the dev community  
 
 ---
 
-## ⚙ Tech Stack (Dark Mode Friendly)
+## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,django,odoo,mysql,sqlite,git,linux,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,django,odoo,mysql,sqlite,git,linux,vscode,arduino&perline=7" alt="skills" />
 </p>
 
 ---
 
-## 🏆 Highlights & Badges
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kareem-dev-del&theme=radical&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kareem-dev-del&theme=matrix&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-dev-del&theme=dark" alt="profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-dev-del&theme=github_dark" alt="profile summary"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-> كل مشروع يحتوي على: ✅ شرح سريع، ✅ خطوات تشغيل سريعة، ✅ demo GIF أو فيديو، ✅ tests، ✅ license.
-
-| Project | What & Why | Tech |
-|---|---:|:---|
-| 🛒 *E-Commerce System* | متجر Django متكامل مع سلة، دفع (sandbox)، و لوحة تحكم للإدارة | Python, Django, MySQL, Docker |
-| ⚙ *Odoo Custom Module* | موديل أعمال مخصص متكامل مع PostgreSQL | Odoo, Python, PostgreSQL |
-| 📦 *Smart Delivery (Flagship)* | ESP32 + backend + dashboard للتحكم بالدرج عبر QR | Arduino, ESP32, Django, Websockets |
+| 💡 Project | 🔍 Description | 🧰 Tech |
+|-------------|----------------|----------|
+| 🛒 *E-Commerce System* | Django store with cart, checkout & admin dashboard | Django, MySQL, HTML, CSS |
+| ⚙ *Odoo Custom Module* | Custom ERP module integrated with PostgreSQL | Odoo, Python, PostgreSQL |
+| 📦 *Smart Delivery Drawer* | ESP32-based system using QR code drawer control | Arduino, ESP32, Django |
 
 ---
 
-## 📊 GitHub Stats (Dark)
+## 📊 GitHub Stats (Dark Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=dark&hide_border=true" height="160" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 📚 Learning Roadmap (short)
+## 🧭 Learning Path
 
-- *Next 3 months:* Docker, GitHub Actions, DRF advanced, Testing (unit & integration)
-- *3–6 months:* Deploy production app (CI/CD), introduce Celery & Redis, basic Terraform
-- *6–12 months:* OSS contributions, build flagship project end-to-end, write case studies
+- 🔹 *Next 3 Months:* Docker · DRF Advanced · Testing (Unit & Integration)  
+- 🔹 *6 Months:* CI/CD with GitHub Actions · Deploying full production apps  
+- 🔹 *1 Year:* Build open-source projects and publish technical write-ups  
 
 ---
 
-## ✨ What I’m Learning Next
+## ✨ What’s Next?
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,aws,bash&perline=5" alt="learning" />
+  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,aws,bash,postman&perline=6" alt="learning next" />
 </p>
 
 ---
 
-## 🌍 Contact & Links
+## 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/kareem-dev-del"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="https://www.linkedin.com/in/kareem-hesham-151121369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://www.facebook.com/share/1G5EpvLiS1/"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/kareem-dev-del"><img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kareem-hesham-151121369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/share/1G5EpvLiS1/"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📎 Quick Tips to Make This README Pop
-
-1. Replace demo GIFs/screenshots with *your actual project media*  
-2. Add CONTRIBUTING.md & CODE_OF_CONDUCT.md to allow collaboration  
-3. Include *short demo videos* or GIFs for every featured project  
-4. Keep the top part short & visually clean  
-
----
-
 <p align="center">
-  <i>“Make your README speak louder than your resume.”</i>  
+  <i>“Dream big, code bigger. Your repo is your legacy.”</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square" alt="Profile Views"/>
 </p>
