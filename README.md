@@ -1,10 +1,11 @@
-<!-- README: Ultra Animated Profile for Karim Hisham -->
+<!-- README: Ultra Premium Animated Profile for Karim Hisham -->
 <div align="center">
 
-<!-- 🌌 Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hey+I'm+Karim+Hisham+👋;Software+Engineer+💻;Full-Stack+Focused+on+.NET+%7C+Odoo+ERP;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+<!-- 🌌 Neon Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python+Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="programmer gif" style="border-radius:15px;margin-top:15px"/>
+<!-- 🌟 Animated Programmer GIF -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
 
 <p>📍 Alexandria, Egypt 🇪🇬</p>
 
@@ -15,8 +16,8 @@
 ## 🧠 About Me
 
 - 🎓 Software Engineer  
-- 💻 Full-Stack Developer focused on *Microsoft Stack (.NET)* and *Odoo ERP*  
-- ⚙ Skilled in *C#, C++, C, Java, Dart, Microsoft SQL Server, HTML, CSS, JS*  
+- 💻 Full-Stack Developer focused on *Backend (Django)* and *Odoo ERP*  
+- ⚙ Skilled in *Python, C/C++, C, Java, HTML, CSS*  
 - 🧩 Passionate about building strong backend systems and clean UI integration  
 - 🚀 Aim: Become one of the top open-source contributors in the dev community  
 
@@ -25,7 +26,7 @@
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,cpp,c,java,dart,mssql,html,css,js,django,odoo,git,linux,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,django,odoo,mysql,sqlite,git,linux,vscode,arduino&perline=7" alt="skills" />
 </p>
 
 ---
@@ -46,9 +47,9 @@
 
 | 💡 Project | 🔍 Description | 🧰 Tech |
 |-------------|----------------|----------|
-| 🛒 E-Commerce System | Django store with cart, checkout & admin dashboard | Django, MySQL, HTML, CSS |
-| ⚙ Odoo Custom Module | Custom ERP module integrated with PostgreSQL | Odoo, Python, PostgreSQL |
-| 📦 Smart Delivery Drawer | ESP32-based system using QR code drawer control | Arduino, ESP32, Django |
+| 🛒 *E-Commerce System* | Django store with cart, checkout & admin dashboard | Django, MySQL, HTML, CSS |
+| ⚙ *Odoo Custom Module* | Custom ERP module integrated with PostgreSQL | Odoo, Python, PostgreSQL |
+| 📦 *Smart Delivery Drawer* | ESP32-based system using QR code drawer control | Arduino, ESP32, Django |
 
 ---
 
