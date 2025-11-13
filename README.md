@@ -4,6 +4,9 @@
 <!-- 🌌 Neon Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python+Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
 
+<!-- 🐱 Cute Cat Badge -->
+<img src="https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/f6b8eb67-2803-4384-90eb-3bb98a25ac40b.png" width="150" alt="Cute Cat" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 10px #00F5D4)"/>
+
 <!-- 🌟 Animated Programmer GIF -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
 
@@ -96,6 +99,7 @@
 <p align="center">
   <i>“Dream big, code bigger. Your repo is your legacy.”</i>
 </p>
+  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square" alt="Profile Views"/>
