@@ -58,13 +58,18 @@
 ## 📊 GitHub Stats (Dark Animated)
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats-kappa-one.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-kappa-one.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-git-master-kareem-dev-dels-projects.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165" />
 </p>
+
 
 
 ---
