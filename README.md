@@ -1,15 +1,13 @@
-<!-- README: Ultra Premium Animated Profile for Karim Hisham -->
+<!-- README: Ultra Professional Animated Profile for Karim Hisham -->
 <div align="center">
 
 <!-- 🌌 Neon Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python+Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=100&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
 
 <!-- 🌟 Animated Programmer GIF -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
 
-<p>📍 Alexandria, Egypt 🇪🇬</p>
+<p>📍 Alexandria, Egypt 🇪🇬 | 🔮 Backend Sorcerer | Open-Source Enthusiast</p>
 
 </div>
 
@@ -17,11 +15,11 @@
 
 ## 🧠 About Me
 
-- 🎓 Software Engineer  
-- 💻 Full-Stack Developer focused on Backend (Django) and Odoo ERP  
-- ⚙ Skilled in Python, C/C++, C, Java, HTML, CSS  
-- 🧩 Passionate about building strong backend systems and clean UI integration  
-- 🚀 Aim: Become one of the top open-source contributors in the dev community  
+- 🎓 Software Engineer | Full-Stack Developer  
+- 💻 Backend Focus: *Django* & *Odoo ERP*  
+- ⚡ Core Skills: Python, C/C++, C, Java, HTML, CSS  
+- 🧩 Passionate about scalable backend systems & clean UI integration  
+- 🚀 Goal: Contribute major open-source projects & mentor developers  
 
 ---
 
@@ -52,40 +50,35 @@
 | 🛒 E-Commerce System | Django store with cart, checkout & admin dashboard | Django, MySQL, HTML, CSS |
 | ⚙ Odoo Custom Module | Custom ERP module integrated with PostgreSQL | Odoo, Python, PostgreSQL |
 | 📦 Smart Delivery Drawer | ESP32-based system using QR code drawer control | Arduino, ESP32, Django |
+| 🔮 Predictive Analytics Engine | System predicts business KPIs automatically | Python, Pandas, ML |
 
 ---
 
-## 📊 GitHub Stats (Dark Animated)
+## 📊 GitHub Stats (Animated & Dark)
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-kappa-one.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="165" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-master-kareem-dev-dels-projects.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-kappa-one.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-master-kareem-dev-dels-projects.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165"/>
 </p>
 
-
-
----
-
-## 🧭 Learning Path
-
-- 🔹 Next 3 Months: Docker · DRF Advanced · Testing (Unit & Integration)  
-- 🔹 6 Months: CI/CD with GitHub Actions · Deploying full production apps  
-- 🔹 1 Year: Build open-source projects and publish technical write-ups  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kareem-dev-del/count.svg" alt="Visitor Counter"/>
+</p>
 
 ---
 
-## ✨ What’s Next?
+## 🧭 Learning Path & Future Skills
+
+- 🔹 Next 3 Months: Docker · DRF Advanced · Unit & Integration Testing  
+- 🔹 6 Months: CI/CD with GitHub Actions · Deploy full production apps  
+- 🔹 1 Year: Open-source projects, AWS, Cloud Security, AI & ML integration  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,aws,bash,postman&perline=6" alt="learning next" />
+  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,aws,bash,postman,fastapi,flutter&perline=7" alt="learning next" />
 </p>
 
 ---
@@ -103,9 +96,4 @@
 
 <p align="center">
   <i>“Dream big, code bigger. Your repo is your legacy.”</i>
-</p>
-  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square" alt="Profile Views"/>
 </p>
