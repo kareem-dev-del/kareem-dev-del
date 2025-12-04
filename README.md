@@ -2,12 +2,14 @@
 <div align="center">
 
 <!-- 🌌 Neon Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=120&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python+Dev;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+
+
 
 <!-- 🌟 Animated Programmer GIF -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 25px #00F5D4)"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
 
-<p>📍 Alexandria, Egypt 🇪🇬 | 🔮 Backend Sorcerer | Open-Source Enthusiast</p>
+<p>📍 Alexandria, Egypt 🇪🇬</p>
 
 </div>
 
@@ -15,88 +17,76 @@
 
 ## 🧠 About Me
 
-- 🎓 Software Engineer | Full-Stack Developer  
-- 💻 Backend Focus: *Django* & *Odoo ERP*  
-- ⚡ Core Skills: Python, C/C++, C, Java, HTML, CSS  
-- 🧩 Passionate about scalable backend systems & clean UI integration  
-- 🚀 Goal: Contribute major open-source projects & mentor developers  
+- 🎓 Software Engineer  
+- 💻 Full-Stack Developer focused on Backend (Django) and Odoo ERP  
+- ⚙ Skilled in Python, C/C++, C, Java, HTML, CSS  
+- 🧩 Passionate about building strong backend systems and clean UI integration  
+- 🚀 Aim: Become one of the top open-source contributors in the dev community  
 
 ---
 
-## ⚙ Tech Stack & Skills
+## ⚙ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,html,css,django,odoo,mysql,sqlite,git,linux,vscode,arduino&perline=7" alt="skills" />
 </p>
 
-<div align="center">
-*Skill Progress*
-<br/>
-<img src="https://progress-bar.dev/95/?title=Python&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/90/?title=Django&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/85/?title=Odoo&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/80/?title=C/C++&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/70/?title=Java&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/75/?title=HTML+%26+CSS&width=300&color=00F5D4"/>
-</div>
+---
+
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kareem-dev-del&theme=matrix&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-dev-del&theme=github_dark" alt="profile summary"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | 💡 Project | 🔍 Description | 🧰 Tech |
 |-------------|----------------|----------|
 | 🛒 E-Commerce System | Django store with cart, checkout & admin dashboard | Django, MySQL, HTML, CSS |
 | ⚙ Odoo Custom Module | Custom ERP module integrated with PostgreSQL | Odoo, Python, PostgreSQL |
 | 📦 Smart Delivery Drawer | ESP32-based system using QR code drawer control | Arduino, ESP32, Django |
-| 🔮 Predictive Analytics Engine | System predicts business KPIs automatically | Python, Pandas, ML |
-
-</div>
 
 ---
 
-## 📊 GitHub Stats & Contribution
+## 📊 GitHub Stats (Dark Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-git-master-kareem-dev-dels-projects.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-kappa-one.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="165" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-git-master-kareem-dev-dels-projects.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/kareem-dev-del/count.svg" alt="Visitor Counter"/>
-  <img src="https://raw.githubusercontent.com/kareem-dev-del/kareem-dev-del/main/assets/visitor-map.gif" alt="Visitor Map" width="350"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165" />
 </p>
 
----
 
-## 🧭 Learning Path & Future Skills
-
-<div align="center">
-*Next 3 Months*  
-<img src="https://progress-bar.dev/80/?title=Docker&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/70/?title=DRF+Advanced&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/60/?title=Unit+%26+Integration+Testing&width=300&color=00F5D4"/>
-<br/><br/>
-*Next 6 Months*  
-<img src="https://progress-bar.dev/75/?title=CI%2FCD+GitHub+Actions&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/65/?title=Deploy+Production+Apps&width=300&color=00F5D4"/>
-<br/><br/>
-*Next 1 Year*  
-<img src="https://progress-bar.dev/85/?title=Open-Source+Projects&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/70/?title=Cloud+%26+AWS&width=300&color=00F5D4"/>
-<img src="https://progress-bar.dev/60/?title=AI+%26+ML&width=300&color=00F5D4"/>
-</div>
 
 ---
 
-## 🏆 Achievements Timeline
+## 🧭 Learning Path
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/kareem-dev-del/kareem-dev-del/main/assets/achievements-timeline.gif" width="700"/>
-</div>
+- 🔹 Next 3 Months: Docker · DRF Advanced · Testing (Unit & Integration)  
+- 🔹 6 Months: CI/CD with GitHub Actions · Deploying full production apps  
+- 🔹 1 Year: Build open-source projects and publish technical write-ups  
+
+---
+
+## ✨ What’s Next?
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,react,githubactions,aws,bash,postman&perline=6" alt="learning next" />
+</p>
 
 ---
 
@@ -113,4 +103,9 @@
 
 <p align="center">
   <i>“Dream big, code bigger. Your repo is your legacy.”</i>
+</p>
+  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square" alt="Profile Views"/>
 </p>
