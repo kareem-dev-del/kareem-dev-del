@@ -1,15 +1,23 @@
-<!-- 🚀 Ultra Premium GitHub Profile README -->
+<!-- 🚀 Ultra Premium Animated GitHub Profile README -->
 
-<div align="center">
+<div align="center" style="animation: fadeIn 2s ease-in-out;">
 
+<!-- 🌈 Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=✨+Karim+Hisham+✨;🚀+Backend+%26+Full-Stack+Developer;💼+Django+•+Odoo+•+Python;⚡+Building+Scalable+Systems" />
 
+<!-- 👋 Animated GIF -->
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="120px"/>
+
+<!-- 💎 FANCY PINTEREST GIF with glow effect -->
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" style="border-radius:20px;box-shadow:0 0 40px #00D4FF;margin:20px 0;animation: glow 2s infinite alternate;"/>
 
 📍 Alexandria, Egypt 🇪🇬  
 <i>Transforming coffee into clean code and scalable systems</i>
 
 </div>
+
+<!-- 🌈 Gradient Divider -->
+<hr style="border:0;height:2px;background:linear-gradient(to right,#00D4FF,#6a00ff);border-radius:5px;"/>
 
 ---
 
@@ -108,3 +116,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square"/>
 </p>
+
+<!-- 🌟 Glow Animation CSS -->
+<style>
+@keyframes glow {
+  0% { box-shadow: 0 0 20px #00D4FF; }
+  50% { box-shadow: 0 0 40px #6a00ff; }
+  100% { box-shadow: 0 0 20px #00D4FF; }
+}
+@keyframes fadeIn {
+  0% { opacity:0; transform: translateY(-20px); }
+  100% { opacity:1; transform: translateY(0); }
+}
+</style>
