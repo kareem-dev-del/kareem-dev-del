@@ -1,23 +1,22 @@
-<!-- 🚀 Ultra Premium Animated GitHub Profile README -->
+<!-- 🚀 Ultra Premium Neon Cyber GitHub Profile README -->
 
-<div align="center" style="animation: fadeIn 2s ease-in-out;">
+<div align="center" style="background: linear-gradient(135deg,#00ffff,#ff00ff); padding:30px; border-radius:20px; animation: bgPulse 5s infinite alternate;">
 
-<!-- 🌈 Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=850&lines=✨+Karim+Hisham+✨;🚀+Backend+%26+Full-Stack+Developer;💼+Django+•+Odoo+•+Python;⚡+Building+Scalable+Systems" />
+<!-- 🌟 Typing SVG Neon Style -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=✨+Karim+Hisham+✨;🚀+Backend+%26+Full-Stack+Developer;💼+Django+•+Odoo+•+Python;⚡+Building+Scalable+Systems" />
 
 <!-- 👋 Animated GIF -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="120px"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="120px" style="animation: float 3s ease-in-out infinite;"/>
 
-<!-- 💎 FANCY PINTEREST GIF with glow effect -->
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" style="border-radius:20px;box-shadow:0 0 40px #00D4FF;margin:20px 0;animation: glow 2s infinite alternate;"/>
+<!-- 💎 FANCY PINTEREST GIF Neon Glow -->
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" style="border-radius:20px; box-shadow: 0 0 50px #00FFFF, 0 0 100px #FF00FF; animation: neonGlow 2s infinite alternate; margin:20px 0;"/>
 
 📍 Alexandria, Egypt 🇪🇬  
-<i>Transforming coffee into clean code and scalable systems</i>
+<i style="color:#00FFFF; text-shadow: 0 0 10px #FF00FF;">Transforming coffee into clean code and scalable systems</i>
 
 </div>
 
-<!-- 🌈 Gradient Divider -->
-<hr style="border:0;height:2px;background:linear-gradient(to right,#00D4FF,#6a00ff);border-radius:5px;"/>
+<hr style="border:0;height:2px;background:linear-gradient(to right,#00FFFF,#FF00FF);border-radius:5px;"/>
 
 ---
 
@@ -110,22 +109,30 @@
 ---
 
 <p align="center">
-  <i>“Dream big, code bigger. Your repository is your legacy.”</i>
+  <i style="color:#00FFFF; text-shadow: 0 0 10px #FF00FF;">“Dream big, code bigger. Your repository is your legacy.”</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kareem-dev-del&color=00e6b8&style=flat-square"/>
 </p>
 
-<!-- 🌟 Glow Animation CSS -->
+<!-- 🌟 Neon Animations CSS -->
 <style>
-@keyframes glow {
-  0% { box-shadow: 0 0 20px #00D4FF; }
-  50% { box-shadow: 0 0 40px #6a00ff; }
-  100% { box-shadow: 0 0 20px #00D4FF; }
+@keyframes neonGlow {
+  0% { box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF; }
+  50% { box-shadow: 0 0 60px #00FFFF, 0 0 120px #FF00FF; }
+  100% { box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF; }
 }
-@keyframes fadeIn {
-  0% { opacity:0; transform: translateY(-20px); }
-  100% { opacity:1; transform: translateY(0); }
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes bgPulse {
+  0% { background: linear-gradient(135deg,#00ffff,#ff00ff); }
+  50% { background: linear-gradient(135deg,#ff00ff,#00ffff); }
+  100% { background: linear-gradient(135deg,#00ffff,#ff00ff); }
 }
 </style>
