@@ -1,16 +1,13 @@
 <!-- README: Ultra Premium Animated Profile for Karim Hisham -->
-
 <div align="center">
 
 <!-- 🌌 Neon Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Backend+Focused+Engineer;Django+%7C+Odoo+%7C+Python;Building+Scalable+Systems+🚀;Welcome+to+my+world+🌍!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey+I'm+Karim+Hisham+👋;Full-Stack+Developer+💻;Django+%7C+Odoo+%7C+Python+Dev;Backend+Focused+Engineer;Welcome+to+my+world+🌍!" alt="Typing SVG" />
 
 <!-- 🌟 Animated Programmer GIF -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" alt="programmer gif" style="border-radius:18px;margin-top:20px;filter:drop-shadow(0 0 20px #00F5D4)"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="programmer gif" style="border-radius:15px;margin-top:15px;filter:drop-shadow(0 0 15px #00F5D4)"/>
 
 <p>📍 Alexandria, Egypt 🇪🇬</p>
-
-<i>"Transforming ideas into clean, scalable backend systems"</i>
 
 </div>
 
@@ -18,30 +15,20 @@
 
 ## 🧠 About Me
 
-- 🎓 Software Engineer  
+- 🎓 Software Engineer with solid academic foundation  
 - 💻 Full-Stack Developer **(Backend Focused)**  
-- 🐍 Django & Odoo ERP Developer  
+- 🐍 Django & Odoo ERP Developer (custom modules & workflows)  
 - ⚙ Skilled in **Python, Java, C, C++, HTML, CSS**  
-- 🧩 Passionate about **clean backend architecture, APIs & ERP systems**  
-- 🔐 Interested in **security-aware backend development**  
+- 🧩 Passionate about **clean backend architecture, REST APIs & scalable systems**  
+- 🔐 Interested in backend security & data integrity  
 - 🚀 Goal: Become a **strong backend specialist & open-source contributor**  
-
----
-
-## 🧩 Engineering Mindset
-
-- ✔ Clean & readable code before clever tricks  
-- ✔ Design first, then implement  
-- ✔ Scalable architecture > quick hacks  
-- ✔ Backend performance & data integrity matter  
-- ✔ Always learning, always improving  
 
 ---
 
 ## ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,django,odoo,mysql,postgres,sqlite,git,linux,vscode,arduino&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,django,odoo,mysql,sqlite,postgres,git,linux,vscode,arduino&perline=7" alt="skills" />
 </p>
 
 ---
@@ -62,36 +49,31 @@
 
 | 💡 Project | 🔍 Description | 🧰 Tech |
 |-----------|----------------|---------|
-| 🛒 **E-Commerce System** | Full Django store with cart, checkout & admin panel | Django · MySQL · HTML · CSS |
-| ⚙ **Odoo Custom Module** | ERP module with custom models & workflows | Odoo · Python · PostgreSQL |
-| 📦 **Smart Delivery Drawer** | QR-controlled drawer using ESP32 | ESP32 · Arduino · Django |
-| 📩 **Contact & Support System** | Messages dashboard for admins | Django · MySQL |
+| 🛒 E-Commerce System | Full Django store with cart, checkout, authentication & admin panel | Django, MySQL, HTML, CSS |
+| ⚙ Odoo Custom Module | Custom ERP module with business logic & reports | Odoo, Python, PostgreSQL |
+| 📦 Smart Delivery Drawer | QR-controlled drawer integrated with backend | ESP32, Arduino, Django |
+| 📩 Contact System | Contact form with admin dashboard | Django, MySQL |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kareem-dev-del&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareem-dev-del&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=kareem-dev-del&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
 
 ## 🧭 Learning Path
 
-- 🔹 **Next 3 Months:**  
-  Docker · Advanced Django REST · Testing · Clean Architecture  
-
-- 🔹 **6 Months:**  
-  CI/CD · GitHub Actions · Linux Servers · Production Deployment  
-
-- 🔹 **1 Year:**  
-  Open-source contributions · System Design · Technical Writing  
+- 🔹 Next 3 Months: Docker · Advanced Django REST · Testing · Clean Architecture  
+- 🔹 6 Months: CI/CD · GitHub Actions · Linux Servers · Production Deployment  
+- 🔹 1 Year: Open-source projects · System Design · Technical Writing  
 
 ---
 
@@ -123,7 +105,7 @@
 ---
 
 <p align="center">
-  <i>“Dream big, code clean, and build systems that last.”</i>
+  <i>“Dream big, code bigger. Your repository is your legacy.”</i>
 </p>
 
 <p align="center">
