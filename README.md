@@ -117,22 +117,5 @@
 </p>
 
 <!-- 🌟 Neon Animations CSS -->
-<style>
-@keyframes neonGlow {
-  0% { box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF; }
-  50% { box-shadow: 0 0 60px #00FFFF, 0 0 120px #FF00FF; }
-  100% { box-shadow: 0 0 30px #00FFFF, 0 0 60px #FF00FF; }
-}
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile;Neon+Developer+🔥" />
 
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-15px); }
-  100% { transform: translateY(0px); }
-}
-
-@keyframes bgPulse {
-  0% { background: linear-gradient(135deg,#00ffff,#ff00ff); }
-  50% { background: linear-gradient(135deg,#ff00ff,#00ffff); }
-  100% { background: linear-gradient(135deg,#00ffff,#ff00ff); }
-}
-</style>
